@@ -2,7 +2,7 @@
 int main()
 {
     int choice;
-    int pin = 1234, enteredPin, newPin;
+    int pin = 1234, enteredPin, newPin; 
     float balance = 5000.0, amount;
     printf("===== ATM SIMULATION =====\n");
     printf("Enter your PIN: ");
