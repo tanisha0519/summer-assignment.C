@@ -3,7 +3,7 @@
 int main()
 {
     char words[20][50], temp[50];
-    int n, i, j;
+    int n, i, j; 
     printf("Enter the number of words: ");
     scanf("%d", &n);
     printf("Enter %d words:\n", n);
